@@ -5,7 +5,7 @@
   
   
   <h1 align="center">Hello! <a href="https://github.com/codexerror">SaVaGe</a> Here</h1>
-  <h1 align="center">Aerospace engr. by profesion</h1>
+  <h1 align="center">Aerospace engr. by profession</h1>
   <h1 align="center">Coder by Passion </h1>
   
   <p align="center">
